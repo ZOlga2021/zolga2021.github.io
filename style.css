@@ -1,0 +1,40 @@
+div{
+  background: yellow;
+  padding: 5px 30px;
+  font-family: 'Style Script', cursive;
+}
+
+h1 {
+  color:Blue;
+  background: lightpink;
+  margin: 20px;
+  border: 5px dotted blue;
+  padding: 50px 0 50px 30px;
+  width: 550px;
+  height: 60px;
+  font-size: 60px;
+}
+
+h3 {
+  color: lime;
+  background: blue;
+  margin-left: 30px;
+  marin-top: 0; 
+  margin-bottom: 0;
+  margin-right: 100px
+ }
+
+p, ol {
+  margin-top: 0; 
+  margin-bottom: 0;
+  }
+#névInputMező {background: lime;}
+li {background: pink;}
+
+.citrom {
+  background: yellow; 
+}
+
+.nagybetűs {
+  font-size: 40px;
+}
